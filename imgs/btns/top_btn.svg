@@ -1,0 +1,18 @@
+<svg width="108" height="108" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>top_btn</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 -4666 -2418)" figma:type="canvas">
+<g id="top_btn" figma:type="frame">
+<g id="Ellipse" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(2333 1209)" fill="#3131DA"/>
+</g>
+<g id="Vector 3" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="translate(2353 1230)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 54 27C 54 41.9117 41.9117 54 27 54C 12.0883 54 0 41.9117 0 27C 0 12.0883 12.0883 0 27 0C 41.9117 0 54 12.0883 54 27Z"/>
+<path id="path1_stroke" d="M -0.819232 9.42654C -1.13595 9.87899 -1.02591 10.5025 -0.573462 10.8192C -0.121013 11.1359 0.502517 11.0259 0.819232 10.5735L -0.819232 9.42654ZM 7 0L 7.81923 -0.573462C 7.6321 -0.840789 7.32631 -1 7 -1C 6.67369 -1 6.3679 -0.840789 6.18077 -0.573462L 7 0ZM 13.1808 10.5735C 13.4975 11.0259 14.121 11.1359 14.5735 10.8192C 15.0259 10.5025 15.1359 9.87899 14.8192 9.42654L 13.1808 10.5735ZM 0.819232 10.5735L 7.81923 0.573462L 6.18077 -0.573462L -0.819232 9.42654L 0.819232 10.5735ZM 6.18077 0.573462L 13.1808 10.5735L 14.8192 9.42654L 7.81923 -0.573462L 6.18077 0.573462Z"/>
+</defs>
+</svg>

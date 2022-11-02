@@ -1,0 +1,21 @@
+<svg width="54" height="54" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>btn_email</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(268 32)" figma:type="canvas">
+<mask id="mask0_alpha" mask-type="alpha">
+<path d="M -268 -32L -214 -32L -214 22L -268 22L -268 -32Z" fill="#FFFFFF"/>
+</mask>
+<g id="btn_email" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Rectangle" figma:type="rounded-rectangle">
+<use xlink:href="#path0_stroke" transform="translate(-255.294 -14.5294)" fill="#FFFFFF"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="translate(-255.294 -14.5294)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 0L 0 -0.75C -0.414214 -0.75 -0.75 -0.414214 -0.75 1.66533e-16L 0 0ZM 28.5882 0L 29.3382 0C 29.3382 -0.414214 29.0024 -0.75 28.5882 -0.75L 28.5882 0ZM 28.5882 19.0588L 28.5882 19.8088C 29.0024 19.8088 29.3382 19.473 29.3382 19.0588L 28.5882 19.0588ZM 0 19.0588L -0.75 19.0588C -0.75 19.473 -0.414214 19.8088 1.66533e-16 19.8088L 0 19.0588ZM 0 0.75L 28.5882 0.75L 28.5882 -0.75L 0 -0.75L 0 0.75ZM 27.8382 0L 27.8382 19.0588L 29.3382 19.0588L 29.3382 0L 27.8382 0ZM 28.5882 18.3088L 0 18.3088L 0 19.8088L 28.5882 19.8088L 28.5882 18.3088ZM 0.75 19.0588L 0.75 0L -0.75 0L -0.75 19.0588L 0.75 19.0588Z"/>
+<path id="path1_stroke" d="M 0.460455 -0.592014C 0.133495 -0.846317 -0.337712 -0.787416 -0.592014 -0.460455C -0.846317 -0.133495 -0.787416 0.337712 -0.460455 0.592014L 0.460455 -0.592014ZM 14.2941 11.1176L 13.8337 11.7097C 14.1045 11.9203 14.4837 11.9203 14.7546 11.7097L 14.2941 11.1176ZM 29.0487 0.592014C 29.3757 0.337712 29.4346 -0.133495 29.1803 -0.460455C 28.9259 -0.787416 28.4547 -0.846317 28.1278 -0.592014L 29.0487 0.592014ZM -0.460455 0.592014L 13.8337 11.7097L 14.7546 10.5256L 0.460455 -0.592014L -0.460455 0.592014ZM 14.7546 11.7097L 29.0487 0.592014L 28.1278 -0.592014L 13.8337 10.5256L 14.7546 11.7097Z"/>
+</defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="108" height="108" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>cancel_btn</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 -450 996)" figma:type="canvas">
+<g id="cancel_btn" figma:type="frame">
+<g id="Ellipse" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(225 -498)" fill="#3131DA"/>
+</g>
+<g id="Group" figma:type="frame">
+<g id="Vector 6" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="translate(245 -478)" fill="#FFFFFF"/>
+</g>
+<g id="Vector 6" figma:type="vector">
+<use xlink:href="#path2_stroke" transform="translate(245 -478)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 54 27C 54 41.9117 41.9117 54 27 54C 12.0883 54 0 41.9117 0 27C 0 12.0883 12.0883 0 27 0C 41.9117 0 54 12.0883 54 27Z"/>
+<path id="path1_stroke" d="M -0.707107 13.2929C -1.09763 13.6834 -1.09763 14.3166 -0.707107 14.7071C -0.316582 15.0976 0.316582 15.0976 0.707107 14.7071L -0.707107 13.2929ZM 14.7071 0.707107C 15.0976 0.316582 15.0976 -0.316582 14.7071 -0.707107C 14.3166 -1.09763 13.6834 -1.09763 13.2929 -0.707107L 14.7071 0.707107ZM 0.707107 14.7071L 14.7071 0.707107L 13.2929 -0.707107L -0.707107 13.2929L 0.707107 14.7071Z"/>
+<path id="path2_stroke" d="M 0.707107 -0.707107C 0.316582 -1.09763 -0.316582 -1.09763 -0.707107 -0.707107C -1.09763 -0.316582 -1.09763 0.316582 -0.707107 0.707107L 0.707107 -0.707107ZM 13.2929 14.7071C 13.6834 15.0976 14.3166 15.0976 14.7071 14.7071C 15.0976 14.3166 15.0976 13.6834 14.7071 13.2929L 13.2929 14.7071ZM -0.707107 0.707107L 13.2929 14.7071L 14.7071 13.2929L 0.707107 -0.707107L -0.707107 0.707107Z"/>
+</defs>
+</svg>

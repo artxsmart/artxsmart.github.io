@@ -1,0 +1,17 @@
+<svg width="54" height="54" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>btn_back</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(329 32)" figma:type="canvas">
+<mask id="mask0_alpha" mask-type="alpha">
+<path d="M -329 -32L -275 -32L -275 22L -329 22L -329 -32Z" fill="#FFFFFF"/>
+</mask>
+<g id="btn_back" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="icon_back" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(-312.529 -17.7059)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 16.3509 0.585652C 16.6743 0.326894 16.7268 -0.145075 16.468 -0.468521C 16.2092 -0.791968 15.7373 -0.844409 15.4138 -0.585652L 16.3509 0.585652ZM 0 12.7059L -0.468521 12.1202C -0.646433 12.2626 -0.75 12.478 -0.75 12.7059C -0.75 12.9337 -0.646433 13.1492 -0.468521 13.2915L 0 12.7059ZM 15.4138 25.9974C 15.7373 26.2562 16.2092 26.2037 16.468 25.8803C 16.7268 25.5568 16.6743 25.0849 16.3509 24.8261L 15.4138 25.9974ZM 15.4138 -0.585652L -0.468521 12.1202L 0.468521 13.2915L 16.3509 0.585652L 15.4138 -0.585652ZM -0.468521 13.2915L 15.4138 25.9974L 16.3509 24.8261L 0.468521 12.1202L -0.468521 13.2915Z"/>
+</defs>
+</svg>
